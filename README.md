@@ -1,2 +1,2 @@
 # CodeCrafter
-my  first repository as AI developer
+My  first repository as AI developer
